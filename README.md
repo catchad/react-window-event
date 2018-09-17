@@ -1,5 +1,11 @@
 # react-window-event
 
+Install
+
+```
+yarn add @catchad/react-window-event
+```
+
 Usage
 
 ```javascript

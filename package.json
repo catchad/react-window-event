@@ -1,16 +1,13 @@
 {
   "name": "@catchad/react-window-event",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "homepage": "https://github.com/catchad/react-window-event",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/catchad/react-window-event.git"
+    "type": "git",
+    "url": "https://github.com/catchad/react-window-event.git"
   },
   "description": "Make adding eventlistener to Window much more react way.",
   "main": "index.js",
-  "scripts": {
-    "publish": "npm publish --access public"
-  },
   "keywords": [
     "react",
     "window",
