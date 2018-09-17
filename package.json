@@ -1,0 +1,13 @@
+{
+  "name": "react-window-event",
+  "version": "1.0.0",
+  "description": "Make adding eventlistener to Window much more react way.",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "window",
+    "event"
+  ],
+  "author": "Joseph Wang",
+  "license": "ISC"
+}
